@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+div {
+  margin:0;
+  padding:0;
+
+}
+
+.mood-level {
+  height: 131px;
+  width: 374px
+}
+.mood-negative {
+  background-color: #F63C38;
+}
+.mood-neutral {
+  background-color: #FFD718;
+}
+.mood-positive {
+  background-color: #00C189;
+}
+
